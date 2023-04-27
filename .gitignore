@@ -1,0 +1,13 @@
+api/node_modules
+api/package-lock.json
+api/cypress/screenshots
+api/cypress/videos
+api/cypress/downloads
+api/cypress/report
+
+ui/node_modules
+ui/package-lock.json
+ui/cypress/screenshots
+ui/cypress/videos
+ui/cypress/downloads
+ui/cypress/report
