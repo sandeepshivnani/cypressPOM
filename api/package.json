@@ -4,7 +4,7 @@
   "description": "GOA API",
   "main": "index.js",
   "scripts": {
-    "api:test": "cypress run --spec=\"cypress/e2e/GET.cy.js\"",
+    "api:test": "cypress run",
     "sourav": "cypress open"
   },
   "author": "Sandeep",
