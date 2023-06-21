@@ -60,7 +60,7 @@ describe('GET API - positive', () => {
 
 })
 
-describe.only('GET API - negative', () => {
+describe('GET API - negative', () => {
     let resp;
     before(() => {
         cy.fetchAPIResponse({ method: 'GET', endpoint: '/v2/pet/', body: '{}' }).then((response) => {

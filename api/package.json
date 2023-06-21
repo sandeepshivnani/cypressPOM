@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "api:test": "cypress run",
-    "sourav": "cypress open"
+    "sandeep": "cypress open"
   },
   "author": "Sandeep",
   "license": "ISC",
